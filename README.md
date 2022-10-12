@@ -1,6 +1,6 @@
 In this project, it is aimed to create a Personal Web Site with an Admin Panel. 
 Contents, icons and person pictures can be updated via the Admin Panel.
-The project has been developed using HTML, CSS, Javascript, Bootsrap, C#.Net and MS SQL technologies.
+The project has been developed using HTML, CSS, Javascript, Bootsrap, C#,.Net MVC and MS SQL technologies.
 Images of the project are shown below.
 
 ![Ekran Görüntüsü (9)](https://user-images.githubusercontent.com/104987335/195464814-01fe9280-06f2-4571-ae6d-1018c9a7b05e.png)
