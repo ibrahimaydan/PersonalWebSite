@@ -1,11 +1,12 @@
-# PersonalWebSite
-Personal Web Site with Admin Panel
-In this project, it is aimed to create a personal website with an admin panel. Contents, icons and person pictures can be updated via the Admin Panel.
-The project has been developed using HTML, CSS, Javascript/jQuery, Bootsrap, C#.Net and MS SQL technologies.
-Images of the project are shown below.![Ekran Görüntüsü (1)](https://user-images.githubusercontent.com/104987335/195463569-982d7e35-c1c8-409f-a63a-6c41e2f31f33.png)
-![Ekran Görüntüsü (3)](https://user-images.githubusercontent.com/104987335/195463599-6cc4cb5a-2811-4ff8-bd21-f3c12cc32857.png)
-![Ekran Görüntüsü (4)](https://user-images.githubusercontent.com/104987335/195463620-dc97d8f4-1ebb-474e-a299-79c1a9278791.png)
-![Ekran Görüntüsü (5)](https://user-images.githubusercontent.com/104987335/195463621-f0f10dbb-5431-4624-a95a-99353f6b0705.png)
-![Ekran Görüntüsü (6)](https://user-images.githubusercontent.com/104987335/195463627-3fd3f8aa-65fa-4ed2-ab23-6d60a653341f.png)
-![Ekran Görüntüsü (7)](https://user-images.githubusercontent.com/104987335/195463628-75f394c9-0341-4f97-b5e7-45fd2213b919.png)
-![Ekran Görüntüsü (8)](https://user-images.githubusercontent.com/104987335/195463631-10fab41d-f173-47f1-8b0c-1ba4919188bb.png)
+In this project, it is aimed to create a Personal Web Site with an Admin Panel. 
+Contents, icons and person pictures can be updated via the Admin Panel.
+The project has been developed using HTML, CSS, Javascript, Bootsrap, C#.Net and MS SQL technologies.
+Images of the project are shown below.
+
+![Ekran Görüntüsü (3)](https://user-images.githubusercontent.com/104987335/195464783-6d6127c4-009f-4f2f-aa81-c9c4443654cd.png)
+![Ekran Görüntüsü (4)](https://user-images.githubusercontent.com/104987335/195464793-b1f213fb-9d01-486d-8966-79c3ec57b2e5.png)
+![Ekran Görüntüsü (5)](https://user-images.githubusercontent.com/104987335/195464802-1ed3aaba-2aed-4506-bfcf-a0699a23ac65.png)
+![Ekran Görüntüsü (6)](https://user-images.githubusercontent.com/104987335/195464805-3654b10c-efda-432f-8ac8-44f6241b09d6.png)
+![Ekran Görüntüsü (7)](https://user-images.githubusercontent.com/104987335/195464807-47f026e6-b4fe-4fdb-b687-fad0292683cb.png)
+![Ekran Görüntüsü (8)](https://user-images.githubusercontent.com/104987335/195464808-3a798c7d-b3de-40fd-a381-b8166e203377.png)
+![Ekran Görüntüsü (9)](https://user-images.githubusercontent.com/104987335/195464814-01fe9280-06f2-4571-ae6d-1018c9a7b05e.png)
