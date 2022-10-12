@@ -1,0 +1,18 @@
+﻿@model KisiselWebSitesi.Models.Icons
+@{
+    ViewBag.Title = "IconAdd";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>New Icon Add</h2>
+<br />
+<form class="form-group" method="post">
+    @Html.LabelFor(x => x.IconName)
+    @Html.TextBoxFor(x => x.IconName, new { @class = "form-control" })
+    <br />
+    @Html.LabelFor(x => x.link)
+    @Html.TextBoxFor(x => x.link, new { @class = "form-control" })
+    <br />
+    <button class="btn btn-success">Add Icon</button>
+
+</form>

@@ -1,0 +1,23 @@
+﻿@using KisiselWebSitesi.Models
+@model List<HomePage>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h2 class="mb-4">Home Page</h2>
+<table class="table table-bordered" mt-3>
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Update</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.Id</td>
+            <td>@x.Name</td>
+            <td><a href="/Admin/GetHomePage/@x.Id" class="btn btn-primary">Update</a></td>
+        </tr>
+    }
+
+</table>
